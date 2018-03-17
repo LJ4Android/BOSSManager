@@ -3,6 +3,7 @@
 /gradle
 /.idea
 /build.gradle
+/gradlew
 /local.properties
 /app/build
 .DS_Store
