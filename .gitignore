@@ -5,6 +5,7 @@
 /build.gradle
 /gradlew
 /local.properties
+/gradle.properties
 /app/build
 .DS_Store
 /build
